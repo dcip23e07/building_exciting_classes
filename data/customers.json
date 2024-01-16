@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "charlse",
+        "last_name": "bob",
+        "date_of_birth": "2000-05-25",
+        "date_registered": "2023-05-25",
+        "address": "test address",
+        "security_number": "23456"
+    },
+    {
+        "first_name": "dwayne",
+        "last_name": "bob",
+        "date_of_birth": "2000-04-25",
+        "date_registered": "2023-04-25",
+        "address": "test address",
+        "security_number": "23457"
+    }
+]

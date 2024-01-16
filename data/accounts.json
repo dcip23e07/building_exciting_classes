@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 300,
+        "account_number": 2345678900,
+        "date_opened": "2023-06-14",
+        "owner_name": "charlsebob",
+        "opened_by": "marydoe",
+        "currency": "EUR",
+        "status": "Active",
+        "type": "SAVINGS"
+    }
+]

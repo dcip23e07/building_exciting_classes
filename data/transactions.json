@@ -1,0 +1,10 @@
+[
+    {
+        "creator_name": "johndoe",
+        "creation_date": "2024-01-14",
+        "creation_time": "11:32",
+        "transaction_type": "Deposit",
+        "amount": 3000,
+        "customer_name": "charlsebob"
+    }
+]

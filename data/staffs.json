@@ -1,0 +1,57 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "job": "teller",
+        "status": "Active",
+        "username": "johndoe",
+        "password": "johndoe",
+        "address": "test",
+        "salary": 2000,
+        "department": "sales"
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Doe",
+        "job": "manager",
+        "status": "Active",
+        "username": "marydoe",
+        "password": "marydoe",
+        "address": "test",
+        "salary": 4000,
+        "department": "management"
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Doe",
+        "job": "teller",
+        "status": "Active",
+        "username": "rachaeldoe",
+        "password": "rachaeldoe",
+        "address": "test",
+        "salary": 2000,
+        "department": "sales"
+    },
+    {
+        "first_name": "Malcom",
+        "last_name": "Doe",
+        "job": "guard",
+        "status": "Active",
+        "username": "malcomdoe",
+        "password": "malcomdoe",
+        "address": "test",
+        "salary": 1000,
+        "department": "security"
+    },
+    {
+        "first_name": "Collins",
+        "last_name": "Doe",
+        "job": "teller",
+        "status": "Deactivated",
+        "username": "collinsdoe",
+        "password": "collinsdoe",
+        "address": "test",
+        "salary": 3000,
+        "department": "sales"
+    }
+]
